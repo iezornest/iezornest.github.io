@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iezornest.github.io/sitemap.html.gz
+Sitemap: https://iezornest.github.io/app/sitemap.html.gz
+Sitemap: https://iezornest.github.io/assets/sitemap.html.gz
+Sitemap: https://iezornest.github.io/css/sitemap.html.gz
+Sitemap: https://iezornest.github.io/includes/sitemap.html.gz
+Sitemap: https://iezornest.github.io/item/sitemap.html.gz
+Sitemap: https://iezornest.github.io/src/sitemap.html.gz
